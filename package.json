@@ -1,0 +1,31 @@
+{
+  "name": "paid-node",
+  "version": "0.0.0",
+  "description": "Paid API Library. See https://www.paid.com for more details.",
+  "homepage": "https://www.paid.com",
+  "author": "Jon Calhoun <jon@apibits.com>",
+  "contributors": [
+    "Jon Calhoun <jon@apibits.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paid/paid-node.git"
+  },
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/paid.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.6",
+    "lodash": "^3.6.0",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0",
+    "chai-as-promised": "~4.1.1",
+    "mocha": "~2.1.0"
+  }
+}
