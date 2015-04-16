@@ -1,7 +1,7 @@
 {
-  "name": "paid-node",
+  "name": "paid",
   "version": "0.0.0",
-  "description": "Paid API Library. See https://www.paid.com for more details.",
+  "description": "Paid API Library. See https://www.paidapi.com for more details.",
   "homepage": "https://www.paid.com",
   "author": "Jon Calhoun <jon@apibits.com>",
   "contributors": [
