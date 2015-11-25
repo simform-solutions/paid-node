@@ -1,6 +1,6 @@
 {
   "name": "paid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Paid API Library. See https://www.paidapi.com for more details.",
   "homepage": "https://www.paid.com",
   "author": "Jon Calhoun <jon@apibits.com>",
