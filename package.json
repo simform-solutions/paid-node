@@ -1,6 +1,6 @@
 {
   "name": "paid",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Paid API Library. See https://www.paidapi.com for more details.",
   "homepage": "https://www.paid.com",
   "author": "Jon Calhoun <jon@apibits.com>",
@@ -14,7 +14,7 @@
   "engines": {
     "node": ">= v0.10.0"
   },
-  "main": "lib/paid.js",
+  "main": "lib/Paid.js",
   "scripts": {
     "test": "mocha"
   },
